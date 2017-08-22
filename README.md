@@ -1,1 +1,1 @@
-# react-native-simple-collapsible
+# React Native Simple Collapsible
