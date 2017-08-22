@@ -1,6 +1,6 @@
 {
   "name": "react-native-simple-collapsible",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Collapsible Component for React Native",
   "main": "Collapsible.js",
   "scripts": {
