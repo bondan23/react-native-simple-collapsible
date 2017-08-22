@@ -1,0 +1,29 @@
+{
+  "name": "react-native-simple-collapsible",
+  "version": "1.0.0",
+  "description": "Simple Collapsible Component for React Native",
+  "main": "Collapsible.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bondan23/react-native-simple-collapsible.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "collapsible",
+    "collapsible-component"
+  ],
+  "author": "Bondan Eko Prasetyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bondan23/react-native-simple-collapsible/issues"
+  },
+  "homepage": "https://github.com/bondan23/react-native-simple-collapsible#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "react-native-vector-icons": "^4.3.0"
+  }
+}
